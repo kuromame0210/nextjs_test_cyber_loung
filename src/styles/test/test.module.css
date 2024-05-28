@@ -1,0 +1,13 @@
+.test-css-div {
+    background-color: rgb(89, 196, 231);
+    width: 300px;
+    margin: 200px;
+    font-size: 2rem;
+}
+
+.testCssDiv {
+    background-color: rgb(89, 196, 231);
+    width: 300px;
+    margin: 200px;
+    font-size: 2rem;
+}
